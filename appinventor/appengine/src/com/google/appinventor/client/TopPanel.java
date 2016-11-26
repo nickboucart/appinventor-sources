@@ -251,6 +251,8 @@ public class TopPanel extends Composite {
       nativeName = MESSAGES.SwitchToSwedish();
     } else if (localeName == "pt_BR") {
       nativeName = MESSAGES.switchToPortugueseBR();
+  } else if (localeName == "nl_BE") {
+      nativeName = MESSAGES.SwitchToDutch();
     }
     return nativeName;
   }
@@ -400,4 +402,3 @@ public class TopPanel extends Composite {
     }
   }
 }
-

@@ -119,6 +119,8 @@
   <extend-property name="locale" values="fr_FR"/>
   <!-- Italian -->
   <extend-property name="locale" values="it_IT"/>
+<!-- Dutch -->
+  <extend-property name="locale" values="nl_BE"/>
   <!-- Russian -->
   <extend-property name="locale" values="ru"/>
   <!-- Korean -->
